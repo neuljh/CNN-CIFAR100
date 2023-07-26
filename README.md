@@ -1,0 +1,2 @@
+# CNN-CIFAR100
+CNN模型，对CIFAR100数据集进行分类
